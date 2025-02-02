@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Briefy Logo](path/to/logo.png)
-
 A powerful web application that leverages GPT-4 to provide concise and intelligent summaries of web articles.
 
 </div>
@@ -87,8 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any queries or suggestions, please reach out to:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- Email: [your.email@example.com](mailto:sonibhaveshsoni0@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/b-havesh-soni/)
 
 ---
 
