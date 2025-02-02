@@ -85,8 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any queries or suggestions, please reach out to:
-- Email: [your.email@example.com](mailto:sonibhaveshsoni0@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/b-havesh-soni/)
+- Email: [sonibhaveshsoni0@gmail.com](mailto:sonibhaveshsoni0@gmail.com)
+- LinkedIn: [b-havesh-soni](https://www.linkedin.com/in/b-havesh-soni/)
 
 ---
 
